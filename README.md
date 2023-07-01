@@ -9,6 +9,13 @@ Poleg temperature ima tudi relativna vlažnost pomembno vlogo pri zagotavljanju 
 ## Kako deluje projekt?
 Projekt temelji na uporabi senzorja DHT11 za merjenje temperature in vlažnosti v okolju. Mikrokrmilnik STM32F4 je odgovoren za zajem podatkov s senzorja in upravljanje OLED zaslona. Meritve temperature in vlažnosti se prikažejo na zaslonu, kar omogoča enostaven pregled podatkov.
 
+## Kako uporabljati projekt?
+- Prenesite in razpakirajte vse potrebne datoteke projekta iz tega repozitorija.
+- Zagotovite, da je mikrokrmilnik STM32F4 pravilno povezan z senzorjem DHT11 in OLED zaslonom.
+- Naložite kodo projekta na mikrokrmilnik s pomočjo ustreznega programa.
+- Po zagonu se bodo podatki o temperaturi in vlažnosti prikazali na OLED zaslonu.
+- Sledite prikazanim vrednostim za zagotavljanje optimalnih pogojev bivanja v prostoru.
+
 ## Dodatne informacije
 Več informacij o delovanju projekta in uporabi posameznih komponent najdete v priloženi dokumentaciji in v pripadajočih datotekah kode. Prav tako vam priporočamo ogled videoposnetka, ki podrobno prikaže delovanje projekta in uporabo senzorja DHT11, mikrokrmilnika STM32F4 in OLED zaslona.
 
