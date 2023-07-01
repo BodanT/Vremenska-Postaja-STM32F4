@@ -11,3 +11,13 @@ Projekt temelji na uporabi senzorja DHT11 za merjenje temperature in vlažnosti 
 
 ## Dodatne informacije
 Več informacij o delovanju projekta in uporabi posameznih komponent najdete v priloženi dokumentaciji in v pripadajočih datotekah kode. Prav tako vam priporočamo ogled videoposnetka, ki podrobno prikaže delovanje projekta in uporabo senzorja DHT11, mikrokrmilnika STM32F4 in OLED zaslona.
+
+### Normalno delovanje
+
+https://github.com/BodanT/Vremenska-Postaja-STM32F4/assets/126685957/b88ab4d2-8a50-4c39-b469-279f068228e4
+
+### Z uporabo sušilnika za lase
+
+https://github.com/BodanT/Vremenska-Postaja-STM32F4/assets/126685957/8e99a5a5-6dd7-4959-a0cb-3aee89315af2
+
+
