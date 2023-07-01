@@ -17,7 +17,7 @@ Projekt temelji na uporabi senzorja DHT11 za merjenje temperature in vlažnosti 
 - Sledite prikazanim vrednostim za zagotavljanje optimalnih pogojev bivanja v prostoru.
 
 ## Dodatne informacije
-Več informacij o delovanju projekta in uporabi posameznih komponent najdete v priloženi dokumentaciji in v pripadajočih datotekah kode. Prav tako vam priporočamo ogled videoposnetka, ki podrobno prikaže delovanje projekta in uporabo senzorja DHT11, mikrokrmilnika STM32F4 in OLED zaslona.
+Več informacij o delovanju projekta in uporabi posameznih komponent najdete v "VIN projekt porocilo.pdf" in v pripadajočih datotekah kode(Vremenska). Prav tako vam priporočamo ogled videoposnetka, ki podrobno prikaže delovanje projekta in uporabo senzorja DHT11, mikrokrmilnika STM32F4 in OLED zaslona.
 
 ### Normalno delovanje
 
